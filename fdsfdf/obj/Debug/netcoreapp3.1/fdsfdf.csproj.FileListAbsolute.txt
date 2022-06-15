@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\obj\Debug\netcoreapp3.1\fdsfdf.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\obj\Debug\netcoreapp3.1\fdsfdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\obj\Debug\netcoreapp3.1\fdsfdf.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\obj\Debug\netcoreapp3.1\fdsfdf.AssemblyInfo.cs
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\obj\Debug\netcoreapp3.1\fdsfdf.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\bin\Debug\netcoreapp3.1\fdsfdf.exe
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\bin\Debug\netcoreapp3.1\fdsfdf.deps.json
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\bin\Debug\netcoreapp3.1\fdsfdf.runtimeconfig.json
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\bin\Debug\netcoreapp3.1\fdsfdf.runtimeconfig.dev.json
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\bin\Debug\netcoreapp3.1\fdsfdf.dll
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\bin\Debug\netcoreapp3.1\fdsfdf.pdb
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\obj\Debug\netcoreapp3.1\fdsfdf.dll
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\obj\Debug\netcoreapp3.1\fdsfdf.pdb
+C:\Users\HP\source\repos\fdsfdf\fdsfdf\obj\Debug\netcoreapp3.1\fdsfdf.genruntimeconfig.cache

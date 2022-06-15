@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMBViJ9Ya2o4gCHx8s5p9ORfMnpU93JS+EnNZt0P3tYFBAhHeFX9vJdoWG8uN2fs5pRHeDCAVUb1LN4HhPnQtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\fdsfdf\\fdsfdf\\fdsfdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
